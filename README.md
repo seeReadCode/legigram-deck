@@ -1,8 +1,8 @@
-# STIR Stack Talk
+# Legigram Deck
 
-<http://seereadcode.github.io/stirstack-deck/>
+<http://seereadcode.github.io/legigram-deck/>
 
-2022.02.09 for [Full Stack DFW](https://www.fullstackdfw.com)
+2022.06.08 for [Full Stack DFW](https://www.fullstackdfw.com)
 
 ## LICENSE
 
