@@ -2,10 +2,13 @@
 @import 'default';
 
 section {
-  font-family: 'Hack Nerd Font Mono';
-  background: rgb(250, 206, 230);
+  font-family: 'DIN Alternate';
+  background: #F2F5F9;
 }
 
 h1, h2, h3, h4, h5, p {
-  color:rgb(30, 63, 100);
+  color: black;
+}
+a {
+  color: #6665EB
 }
