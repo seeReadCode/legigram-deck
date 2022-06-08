@@ -112,6 +112,7 @@ Chris Reed [@seereadnow](https:///twitter.com/seereadnow) | 2022.06.08 | [FullSt
 
 ![bg](assets/news.png)
 
+---
 
 # News coverage
 - Editorial: Nostalgic Neighbors
@@ -176,7 +177,7 @@ but the city vision/plan needs work
 - Easier for me to view
 - Faster, smart UX for journalists and like-minded folks
 - Low cost
-- Easy maintnenace
+- Easy maintenance
 - Rot resistant
 - "Progress"
 
@@ -201,6 +202,7 @@ but the city vision/plan needs work
 # Affordances
 Tech changes what is possible
 
+---
 
 ![bg contain](./assets/great2.png)
 ![bg contain](./assets/great.png)
@@ -209,6 +211,7 @@ Tech changes what is possible
 
 # <!-- fit --> Legistar is problematic
 But so are other solutions
+
 ---
 
 ![](assets/granicus.png)
@@ -219,7 +222,7 @@ But so are other solutions
 - Anchoring
 - Extension neglect
 - False priors
-- Propect theory
+- Prospect theory
 - Self assessment
 - Risk compensation
 - Discounting of commons
@@ -373,8 +376,10 @@ c.f. [Towards Data Science](https://towardsdatascience.com/named-entity-recognit
 # <!-- fit --> Cleveland Rocks!
 - Documenters
 - @CleBillBot
+- Chicago's City Bureau
 
 ---
+
 
 ![](assets/yay5.png)
 ![](assets/yay4.png)
@@ -389,10 +394,6 @@ c.f. [Towards Data Science](https://towardsdatascience.com/named-entity-recognit
 
 
 ![bg contain](assets/yay6.png)
-
----
-
-![](assets/como-bricks.jpg)
 
 ---
 
