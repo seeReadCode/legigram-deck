@@ -219,12 +219,8 @@ But so are other solutions
 ---
 
 # Bias around tech solutionism – worse in public sector?
-- Anchoring
 - Extension neglect
-- False priors
-- Prospect theory
-- Self assessment
-- Risk compensation
+- Overconfidence
 - Discounting of commons
 
 ---
