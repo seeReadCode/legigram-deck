@@ -370,9 +370,9 @@ c.f. [Towards Data Science](https://towardsdatascience.com/named-entity-recognit
 ---
 
 # <!-- fit --> Cleveland Rocks!
-- Documenters
-- @CleBillBot
-- Chicago's City Bureau
+- [Documenters](https://documenters.org/)
+- [@CleBillBot](https://twitter.com/CleBillBot)
+- [Chicago's City Bureau](https://www.citybureau.org/))
 
 ---
 
