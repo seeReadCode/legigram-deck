@@ -130,7 +130,7 @@ Chris Reed [@seereadnow](https:///twitter.com/seereadnow), [Super Basic](https:/
 
 ![bg left contain](assets/long-tail.png)
 
-*h/t to Howard Dierking in _Open Government_
+*h/t to David Reaves in _Open Government_
 
 and apologies to interest groups, journalists, civic society
 
